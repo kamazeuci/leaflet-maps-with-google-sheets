@@ -77,7 +77,7 @@ form {
 }
 
 .leaflet-popup-content {
-  min-width: 150px;
+  min-width: 2000px;
 }
 
 .leaflet-popup-content img {
@@ -175,7 +175,7 @@ form {
   left: 10vw;
   width: 500vw;
   z-index: 1000;
-  background: rgba(255,0,0,0.0);
+  background: rgb(156,70,233);
   padding: 1vh 5vw;
   opacity: 0.9;
   border: 5px #ddd solid;
