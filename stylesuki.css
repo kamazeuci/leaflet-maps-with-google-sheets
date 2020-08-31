@@ -2,7 +2,7 @@ html,
 
 @font-face {
     font-family: 'bikoregular';
-    src: url('biko_regular-webfont.woff2'),
+    src: url('biko_regular-webfont.ttf'),
          url('biko_regular-webfont.woff');
     font-weight: normal;
     font-style: normal;
