@@ -94,7 +94,7 @@ form {
 
 .leaflet-popup-content {
   min-width: 150px;
-  font-family: bikoregular;
+  font-family: "Courier New";
 }
 
 .leaflet-popup-content img {
@@ -130,7 +130,7 @@ form {
   color: #000;
   text-indent: -9999em;
   position: absolute;
-  left: 50vw;
+  left: 50vw;bikoregular
   top: 45vh;
   font-family: bikoregular,"Courier New";
   font-size: 11px;
