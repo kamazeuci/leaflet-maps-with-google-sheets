@@ -3,6 +3,7 @@ html,
 @font-face {
     font-family: 'bikoregular';
     src: url('biko_regular-webfont.woff2') format('woff2'),
+         url('biko_regular-webfont.ttf') format('ttf'),
          url('biko_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
@@ -180,7 +181,7 @@ form {
   opacity: 0.9;
   border: 5px #ddd solid;
   border-radius: 5px;
-  font-family: bikoregular,"Helvetica Neue", Arial;
+  font-family: bikoregular,"Courier New";
 }
 
 #mobile-intro-popup p {
