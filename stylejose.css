@@ -2,8 +2,8 @@ html,
 
 @font-face {
     font-family: bikoregular;
-    src: url("biko_regular-webfont.woff2") format("woff2"),
-         url("biko_regular-webfont.ttf") format("ttf"),
+    src: url("biko_regular-webfont.ttf") format("ttf"),
+         url("biko_regular-webfont.woff2") format("woff2"),
          url("biko_regular-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
@@ -15,7 +15,7 @@ body {
   margin: 0 auto;
   height: 100%;
   width: 100%;
-  font-family: bikoregular,"Courier New";
+  font-family: bikoregular;
 }
 
 #map {
@@ -46,7 +46,7 @@ h6 {
 .intro-popup .leaflet-popup-tip-container {
   width: 0;
   height: 0;
-  font-family: bikoregular,"Courier New";
+  font-family: bikoregular,"Arial";
 }
 
 .pointer {
@@ -85,7 +85,7 @@ form {
 
 .leaflet-popup-content {
   min-width: 150px;
-  font-family: bikoregular,"Courier New";
+  font-family: bikoregular;
 }
 
 .leaflet-popup-content img {
