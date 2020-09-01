@@ -186,6 +186,10 @@ form {
   }
 }
 
+#points-legend {
+    font-family:"Courier New";
+}
+
 #mobile-intro-popup {
   position: absolute;
   bottom: 5vh;
