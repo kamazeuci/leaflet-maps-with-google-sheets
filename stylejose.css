@@ -15,6 +15,7 @@ body {
   margin: 0 auto;
   height: 100%;
   width: 100%;
+  font-family: bikoregular,"Courier New"
 }
 
 #map {
@@ -26,22 +27,26 @@ body {
 h3 {
   margin: 0;
   font-size: 1.5em;
+  font-family: bikoregular,"Courier New";
 }
 
 h5 {
   margin: 0;
   font-size: 1.25em;
   font-weight: normal;
+  font-family: bikoregular,"Courier New";
 }
 
 h6 {
   margin: 0;
   font-size: 1.2em;
+  font-family: bikoregular,"Courier New";
 }
 
 .intro-popup .leaflet-popup-tip-container {
   width: 0;
   height: 0;
+  font-family: bikoregular,"Courier New";
 }
 
 .pointer {
@@ -54,6 +59,7 @@ h6 {
   box-shadow: 0 1px 5px rgba(0,0,0,0.4);
   color: #333;
   border-radius: 5px;
+  font-family: bikoregular,"Courier New";
 }
 
 .leaflet-control-geocoder {
@@ -79,6 +85,7 @@ form {
 
 .leaflet-popup-content {
   min-width: 150px;
+  font-family: bikoregular,"Courier New";
 }
 
 .leaflet-popup-content img {
@@ -116,6 +123,7 @@ form {
   position: absolute;
   left: 50vw;
   top: 45vh;
+  font-family: bikoregular,"Courier New";
   font-size: 11px;
   -webkit-transform: translateZ(0);
   -ms-transform: translateZ(0);
@@ -189,6 +197,7 @@ form {
   max-height: 70vh;
   overflow-y: scroll;
   overflow-x: hidden;
+  font-family: bikoregular,"Courier New";
 }
 
 #mobile-intro-popup-close {
@@ -198,6 +207,7 @@ form {
   width: 30px;
   background: #bbb;
   color: rgba(255,0,0,0.0);
+  font-family: bikoregular,"Courier New";
   font-size: 1.4em;
   text-align: center;
   border-radius: 5px;
@@ -212,6 +222,7 @@ form {
   position: absolute;
   left: -15px;
   color: #444;
+  font-family: bikoregular,"Courier New";
   font-weight: bold;
   opacity: 0.9;
   pointer-events: none !important;
