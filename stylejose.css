@@ -130,7 +130,7 @@ form {
   color: #000;
   text-indent: -9999em;
   position: absolute;
-  left: 50vw;bikoregular
+  left: 50vw;
   top: 45vh;
   font-family: bikoregular,"Courier New";
   font-size: 11px;
@@ -273,7 +273,7 @@ div.dataTables_scrollHead {
 }
 
 .dataTable * {
-  font-family: bikoregular, "Helvetica Neue", Arial;
+  font-family: bikoregular, Arial;
   border: 0 !important;
 }
 
