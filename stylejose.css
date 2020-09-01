@@ -66,6 +66,10 @@ h6 {
   z-index: 9999;
 }
 
+.leaflet-control-layer-overlays {
+  font-family: "Courier New";   
+}
+
 form {
   margin-top: 2px;
 }
